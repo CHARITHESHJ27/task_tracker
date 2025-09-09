@@ -14,4 +14,13 @@ git branch -M main--- to push into main branch
 git push -u origin main ---u define upstream,
 Git pull - get the file from the repo
 shortcuts:
-    
+    git commit -am "your commit message"
+
+
+    ssh key genreation:ssh -keygen -t rsa -b 4096
+
+
+Branching:
+1. git checkout -b  
+
+
