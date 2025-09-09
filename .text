@@ -1,0 +1,10 @@
+git config --global user.name "cherry "
+git config --global user.email "charitheshj@mmail.com"
+ git init we use it fot intitialize the project
+ git status --To check the git status
+Git add . --It add all the files at once 
+Git add  file --it add each file
+mkdir -it create folder  in the ssytem
+dir/a --Shows the files
+git  commit -m "changes  i want to do"
+
