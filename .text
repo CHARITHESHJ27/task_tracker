@@ -23,4 +23,6 @@ shortcuts:
 Branching:
 1. git checkout -b  
 
-
+git branch   -to get the branch
+git merge "bramch' --
+---delete= git branch  -d  feature/login
