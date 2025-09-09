@@ -7,4 +7,9 @@ Git add  file --it add each file
 mkdir -it create folder  in the ssytem
 dir/a --Shows the files
 git  commit -m "changes  i want to do"
+git log  --- it shows the  all the commit we did
 
+git remote add origin "repo link"
+git branch -M main--- to push into main branch
+git push -u origin main ---u define upstream,
+Git pull - get the file from the repo
